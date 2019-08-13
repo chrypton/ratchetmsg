@@ -2,7 +2,7 @@
 * _boot your **xampp or wamp**_
 * _cd into **project folder[ratchetmsg]**_
 * _run **php server.php** from terminal_
-* _visit **example.com/rachetmsg/chat.html** on browser_
+* _visit **localhost:8080/rachetmsg/chat.html** on browser_
 
 * ![alt text](https://i.ibb.co/HgfqdT2/ratchet.png)
 
